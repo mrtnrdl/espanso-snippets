@@ -1,0 +1,5 @@
+matches:
+  - trigger: ":shrug"
+    replace: "¯\\\__(ツ)\__/¯"
+  - trigger: ":tf"
+    replace: "(╯°□°)╯︵ ┻━┻"
